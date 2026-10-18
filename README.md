@@ -1,2 +1,2 @@
 # ARES
-Autonomous Recon and Exploit System
+Autonomous Reconnaissance and Exploitation System
