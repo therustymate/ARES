@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="./rsrc/logo.png" width="30%">
+    <img src="./rsrc/logo.png" width="40%">
+    <h1>Project ARES</h1>
+    <h3>Autonomous Reconnaissance and Exploitation System</h3>
 </div>
-
-# ARES
-Autonomous Reconnaissance and Exploitation System
-
----
 
 An AI-powered, multi-agent offensive security framework for autonomous reconnaissance, vulnerability assessment, exploitation validation, and adversary emulation.
 
