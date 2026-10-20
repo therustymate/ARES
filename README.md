@@ -11,61 +11,80 @@
 > **Unauthorized engagements using this project and associated materials are strictly prohibited**. Unauthorized access on devices using this project and associated materials may cause serious legal consequences.
 
 ## Features
-* Red Team Campaign Management
-    * Web-Based Multiplayer Operations
-    * Campaign Objectives & Scope Management
-    * Real-Time Agent Activity Monitoring
-    * Autonomous Campaign Planning
-    * Autonomous Simulation Report Generation
-    * Attack Path Visualization
-* Agent Orchestration
-    * Autonomous Multi-Agent Orchestration
-    * Autonomous Task Planning
-    * Autonomous Tool Selection & Execution
-    * Autonomous Failure Analysis & Recovery
-    * Autonomous Cross-Agent Collaboration
-* Agentic Offensive Security Features
-    * Reconnaissance
-        * Autonomous OSINT Gathering
-        * Autonomous Attack Surface Evaluation
-        * Autonomous Asset Enumeration
-        * Autonomous Asset Classification
-        * Autonomous Asset Correlation
-        * Autonomous Supply Chain Analysis
-        * Autonomous Technology Fingerprinting
-    * Weaponization
-        * Autonomous Vulnerability Analysis
-        * Autonomous Exploitability Assessment
-        * Autonomous MITRE ATT&CK TTP Selection
-        * Autonomous Public Exploit Intelligence
-        * Autonomous Exploit Compatibility Assessment
-    * Delivery
-        * Autonomous Delivery Vector Analysis
-        * Autonomous Phishing Simulation
-        * Autonomous Delivery Validation
-        * Autonomous Delivery Surface Discovery
-    * Exploitation
-        * Autonomous Public Exploit Selection
-        * Autonomous Exploit Validation
-    * Actions On Objectives
-        * Autonomous Action Recommendation
-        * Autonomous Objective-Based Planning
-        * Autonomous Attack Path Analysis
-* External Resources Integration
-    * MITRE ATT&CK Integration
-    * Sliver C2 Integration
-    * Mythic C2 Integration
-    * Havoc C2 Integration
-    * Metasploit Integration
-* Plugin System
-    * Python AI Agent Toolkit SDK
-    * External Payload Storage
+
+<details><summary>Red Team Campaign Management</summary>
+
+* Web-Based Multiplayer Operations
+* Campaign Objectives & Scope Management
+* Real-Time Agent Activity Monitoring
+* Autonomous Campaign Planning
+* Autonomous Simulation Report Generation
+* Attack Path Visualization
+
+</details>
 
 
-## Usage
-```bash
 
-```
+<details><summary>Agent Orchestration</summary>
+
+* Autonomous Multi-Agent Orchestration
+* Autonomous Task Planning
+* Autonomous Tool Selection & Execution
+* Autonomous Failure Analysis & Recovery
+* Autonomous Cross-Agent Collaboration
+
+</details>
+
+
+<details><summary>Agentic Offensive Security Features</summary>
+
+* Reconnaissance
+    * Autonomous OSINT Gathering
+    * Autonomous Attack Surface Evaluation
+    * Autonomous Asset Enumeration
+    * Autonomous Asset Classification
+    * Autonomous Asset Correlation
+    * Autonomous Supply Chain Analysis
+    * Autonomous Technology Fingerprinting
+* Weaponization
+    * Autonomous Vulnerability Analysis
+    * Autonomous Exploitability Assessment
+    * Autonomous MITRE ATT&CK TTP Selection
+    * Autonomous Public Exploit Intelligence
+    * Autonomous Exploit Compatibility Assessment
+* Delivery
+    * Autonomous Delivery Vector Analysis
+    * Autonomous Phishing Simulation
+    * Autonomous Delivery Validation
+    * Autonomous Delivery Surface Discovery
+* Exploitation
+    * Autonomous Public Exploit Selection
+    * Autonomous Exploit Validation
+* Actions On Objectives
+    * Autonomous Action Recommendation
+    * Autonomous Objective-Based Planning
+    * Autonomous Attack Path Analysis
+
+</details>
+
+<details><summary>External Resources Integration</summary>
+
+* MITRE ATT&CK Integration
+* Sliver C2 Integration
+* Mythic C2 Integration
+* Havoc C2 Integration
+* Metasploit Integration
+
+</details>
+
+
+<details><summary>Plugin System</summary>
+
+* Python AI Agent Toolkit SDK
+* External Payload Storage
+
+</details>
+
 
 ## Contributors
 <a href="https://github.com/therustymate/ARES/graphs/contributors">
