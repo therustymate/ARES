@@ -87,6 +87,11 @@
 </details>
 
 
+## System Architecture
+
+![Main Workflow](./rsrc/main_workflow.png)
+
+
 ## Contributors
 <a href="https://github.com/therustymate/ARES/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=therustymate/ARES" />
